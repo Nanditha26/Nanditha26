@@ -2,6 +2,7 @@
 - 👀 I’m interested in crime data, analysis using R 
 - 🌱 I’m currently learning criminology and social anthropology at university!
 - 💞️ I’m looking to learn more about using R
+- 📝 Mostly code from participating in #TidyTuesday on twitter
 
 <!---
 Nanditha26/Nanditha26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
