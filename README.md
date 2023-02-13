@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nanditha26
 - 👀 I’m interested in crime data, analysis using R 
-- 🌱 I’m currently learning criminology and social anthropology at university!
+- 🌱 I graduated with a bachelor's degree in criminology and social anthropology and work as an associate data analyst
 - 💞️ I’m looking to learn more about using R
 - 📝 Mostly code from participating in #TidyTuesday on twitter
 
