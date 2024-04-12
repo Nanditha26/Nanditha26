@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @Nanditha26
-- 👀 I’m interested in crime data, analysis using R 
-- 🌱 I graduated with a bachelor's degree in criminology and social anthropology and work as an associate data analyst
-- 💞️ I’m looking to learn more about using R
-- 📝 Mostly code from participating in #TidyTuesday on twitter
+# 👋 Nanditha Plakazhi
 
-<!---
-Nanditha26/Nanditha26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**'Data Analyst'**
+
+Hello! I'm a full time data analyst who is interested in developing their coding and data science skills. I graduated with a bachelor's degree in criminology and social anthropology and now work as a full-time data analyst working on data science projects at Trilateral Research :) 
+
+---
+
+### Languages and Tools
+
+<img align="left" alt = "Java" width = "30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" />
+<img align="left" alt = "Java" width = "30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" />
+<img align="left" alt = "Java" width = "30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
+<img align="left" alt = "Java" width = "30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+
+---
+
+### Skills
+- Data cleaning, manipulation and visualization
+- Statistics
+- Geospatial Analysis
+
+Learning : Machine Learning, Blender (2D and 3D art and animations!), SQL
+          
