@@ -19,8 +19,8 @@ Hello! I'm a full-time data scientist who is interested in developing my coding 
 
 ### Skills
 - Data cleaning, manipulation and visualization
-- Statistical Analysis
+- Statistical Analysis and Data Science product development
 - Geospatial Analysis
 
-Learning : Machine Learning, Blender (2D and 3D art and animations!), SQL
+Learning : AI and Machine Learning, Blender (2D and 3D art and animations!), SQL
           
