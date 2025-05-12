@@ -1,8 +1,8 @@
 # 👋 Nanditha Plakazhi
 
-**`Data Analyst`**
+**`Data Scientist`**
 
-Hello! I'm a full time data analyst who is interested in developing their coding and data science skills. I graduated with a bachelor's degree in criminology and social anthropology and now work as a full-time data analyst working on data science projects at Trilateral Research :) 
+Hello! I'm a full-time data scientist who is interested in developing my coding and data science skills. I graduated with a bachelor's degree in criminology and social anthropology and now work on data science projects at Trilateral Research :) 
 
 ---
 
