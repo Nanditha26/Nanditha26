@@ -2,7 +2,7 @@
 
 **`Data Scientist`**
 
-Hello! I'm a full-time data scientist who is interested in developing my coding and data science skills. I graduated with a bachelor's degree in criminology and social anthropology and now work on data science projects at Trilateral Research :) 
+Hello! This is my corner of the internet where I explore my coding and data science skills. I graduated with a bachelor's degree in criminology and social anthropology and previously worked on bespoke data science projects at Trilateral Research. I am currently looking for my next adventure :) 
 
 ---
 
@@ -19,8 +19,10 @@ Hello! I'm a full-time data scientist who is interested in developing my coding 
 
 ### Skills
 - Data cleaning, manipulation and visualization
-- Statistical Analysis and Data Science product development
+- Machine Learning, Natural Language Processing and Statistical Analysis
+- Data Science product development and deployment
 - Geospatial Analysis
+  
 
-Learning : AI and Machine Learning, Blender (2D and 3D art and animations!), SQL
+Learning : Blender (2D and 3D art and animations!), SQL
           
