@@ -2,7 +2,7 @@
 
 **`Data Scientist`**
 
-Hello! This is my corner of the internet where I explore my coding and data science skills. I graduated with a bachelor's degree in criminology and social anthropology and previously worked on bespoke data science projects at Trilateral Research. I am currently looking for my next adventure :) 
+Hello. This is my corner of the internet where I explore my coding and data science skills. I graduated with a bachelor's degree in criminology and social anthropology and previously worked on bespoke data science projects at Trilateral Research. I am currently looking for my next adventure :) 
 
 ---
 
@@ -24,5 +24,5 @@ Hello! This is my corner of the internet where I explore my coding and data scie
 - Geospatial Analysis
   
 
-Learning : Blender (2D and 3D art and animations!), SQL
+Learning : Blender (2D and 3D art and animations!), SQL (among other non-digital crafts!)
           
